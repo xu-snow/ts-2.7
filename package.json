@@ -1,17 +1,21 @@
 {
-  "name": "ts-2.7",
-  "version": "1.0.0",
-  "description": "typeScript 2.7 experience",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "typescript"
-  ],
-  "author": "zhengxu",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^2.7.2"
-  }
+    "name": "ts-2.7",
+    "version": "1.0.0",
+    "description": "typeScript 2.7 experience",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "typescript"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xu-snow/ts-2.7"
+    },
+    "author": "zhengxu",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^2.7.2"
+    }
 }
