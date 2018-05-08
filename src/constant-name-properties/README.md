@@ -1,0 +1,2 @@
+- 增加常量声明的属性支持,包括 **ECMAScript** 标准里的symbols类型。当Symbol + const-name 时，值的类型为`unique symbols`
+-  typescript 增加一种新的类型声明：`unique symbols`,是 symbols的子类型，仅可通过调用 Symbol()或 Symbol.for()或由明确的类型注释生成
