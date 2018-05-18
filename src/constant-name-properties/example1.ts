@@ -14,6 +14,7 @@ export class JSONSerializableItem implements Serializable {
         return JSON.stringify(obj);
     }
 }
+
 const Foo = "Foo";
 const Bar = "Bar";
 
